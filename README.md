@@ -1,4 +1,1 @@
-- 👋 Hola, soy Sergio
-- 👀 Estoy interesado en la programación
-- 🌱 Actualmente estoy aprendiendo conceptos básicos de la vida
-- 💞️ No estoy buscando colaboradores ahora mismo
+
